@@ -46,7 +46,7 @@
 ### 📷 Контакты:
 
 <a href='https://t.me/Ahmed_Gazdiev'><img align='left' alt='redux' width='48px' src='./src/icons/telegram.svg'></a>
-<a href='https://www.instagram.com/ahm.gazdiev'><img align='left' alt='redux' width='48px' src='./src/icons/instagram.svg'></a>
+<a href='https://www.instagram.com/ahm.gazdiev'><img align='left' alt='redux' width='50px' src='./src/icons/instagram.svg'></a>
 
 
 <br/>
