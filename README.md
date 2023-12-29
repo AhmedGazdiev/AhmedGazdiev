@@ -14,15 +14,15 @@
 
 ### 💻 Технологии:
 
-<img align='left' alt='html' width='50px' src='./src/icons/html.svg'>
-<img align='left' alt='css' width='50px' src='./src/icons/css.svg'>
-<img align='left' alt='scss' width='50px' src='./src/icons/scss.svg'>
-<img align='left' alt='tailwind' width='50px' src='./src/icons/tailwind.svg'>
-<img align='left' alt='javascript' width='50px' src='./src/icons/javascript.svg'>
-<img align='left' alt='typescript' width='50px' src='./src/icons/typescript.svg'>
-<img align='left' alt='react' width='50px' src='./src/icons/react.svg'>
-<img align='left' alt='redux' width='50px' src='./src/icons/redux.svg'>
-<img align='left' alt='react' width='50px' src='./src/icons/nextjs.svg'>
+<img align='left' alt='html' width='53px' src='./src/icons/html.svg'>
+<img align='left' alt='css' width='53px' src='./src/icons/css.svg'>
+<img align='left' alt='scss' width='53px' src='./src/icons/scss.svg'>
+<img align='left' alt='tailwind' width='53px' src='./src/icons/tailwind.svg'>
+<img align='left' alt='javascript' width='53px' src='./src/icons/javascript.svg'>
+<img align='left' alt='typescript' width='53px' src='./src/icons/typescript.svg'>
+<img align='left' alt='react' width='53px' src='./src/icons/react.svg'>
+<img align='left' alt='redux' width='53px' src='./src/icons/redux.svg'>
+<img align='left' alt='react' width='53px' src='./src/icons/nextjs.svg'>
 
 <br/>
 <br/>
@@ -32,9 +32,9 @@
 
 ### ⚒️ Инструменты:
 
-<img align='left' alt='redux' width='50px' src='./src/icons/VScode.svg'>
-<img align='left' alt='redux' width='50px' src='./src/icons/git.svg'>
-<img align='left' alt='redux' width='50px' src='./src/icons/vite.svg'>
+<img align='left' alt='redux' width='53px' src='./src/icons/VScode.svg'>
+<img align='left' alt='redux' width='53px' src='./src/icons/git.svg'>
+<img align='left' alt='redux' width='53px' src='./src/icons/vite.svg'>
 
 <br/>
 <br/>
