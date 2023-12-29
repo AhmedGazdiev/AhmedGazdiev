@@ -18,7 +18,6 @@
 <img align='left' alt='css' width='48px' src='./src/icons/css.svg'>
 <img align='left' alt='scss' width='48px' src='./src/icons/scss.svg'>
 <img align='left' alt='tailwind' width='48px' src='./src/icons/tailwind.svg'>
-<img align='left' alt='tailwind' width='48px' src='./src/icons/bootstrap.svg'>
 <img align='left' alt='javascript' width='48px' src='./src/icons/javascript.svg'>
 <img align='left' alt='typescript' width='48px' src='./src/icons/typescript.svg'>
 <img align='left' alt='react' width='48px' src='./src/icons/react.svg'>
