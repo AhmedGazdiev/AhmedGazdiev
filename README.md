@@ -45,9 +45,9 @@
 ### 📷 Соц. сети:
 
 <div style={marginLeft:10px}>
-<a href='https://t.me/Ahmed_Gazdiev'><img align='left' alt='redux' width='48px' src='./src/icons/telegram.png'></a>
-<a href='https://www.instagram.com/ahm.gazdiev'><img align='left' alt='redux' width='48px' src='./src/icons/instagram.png'></a>
-<a href='https://vk.com/ahmedgazdiev'><img align='left' alt='redux' width='48px' src='./src/icons/vk.png'></a></div>
+<a href='https://t.me/Ahmed_Gazdiev'><img align='left' alt='redux' width='48px' src='./src/icons/telegram.svg'></a>
+<a href='https://www.instagram.com/ahm.gazdiev'><img align='left' alt='redux' width='48px' src='./src/icons/instagram.svg'></a>
+<a href='https://vk.com/ahmedgazdiev'><img align='left' alt='redux' width='48px' src='./src/icons/vk.svg'></a></div>
 
 
 <br/>
