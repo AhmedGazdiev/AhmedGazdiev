@@ -27,10 +27,11 @@
 <br/>
 
 ### 📷 Соц. сети:
-<div style={marginLeft:10px}>
-<a href='https://t.me/Ahmed_Gazdiev'><img align='left' alt='redux' width='48px' src='./src/icons/telegram.svg'></a>
-<a href='https://www.instagram.com/ahm.gazdiev'><img align='left' alt='redux' width='48px' src='./src/icons/instagram.svg'></a>
-<a href='https://vk.com/ahmedgazdiev'><img align='left' alt='redux' width='48px' src='./src/icons/vk.svg'></a></div>
+<a href="https://twitter.com/danielhendricks/">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Twitter" title="Twitter" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Twitter" title="Twitter" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Twitter" title="Twitter" width="25" height="25" />
+</a>
 
 <br/>
 <br/>
