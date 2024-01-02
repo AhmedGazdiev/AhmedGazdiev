@@ -19,7 +19,7 @@
 <br/>
 
 ### ⚒️ Инструменты:
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vite,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,vite,webpack)](https://skillicons.dev)
 
 <br/>
 <br/>
