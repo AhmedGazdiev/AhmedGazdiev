@@ -1,6 +1,4 @@
-
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&random=false&width=435&lines=Hello,+my+name+is)](https://git.io/typing-svg) 
+<h1>Hello, my name is</h1>
 
 <br/>
 
@@ -8,7 +6,7 @@
 
 <br/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=and+I'm+a+Frontend+Developer)](https://git.io/typing-svg)
+<h2>and I'm a Frontend Developer</h2>
 
 <br/>
 <br/>
@@ -23,7 +21,6 @@
 ### ⚒️ Инструменты:
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vite,webpack)](https://skillicons.dev)
 
-<br/>
 <br/>
 <br/>
 
