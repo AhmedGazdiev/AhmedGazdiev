@@ -1,4 +1,4 @@
-# Hello, my name is 🤝
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&pause=1000&random=false&width=435&lines=Hello,+🤝+my+name+is)](https://git.io/typing-svg) Hello, my name is
 
 <br/>
 
@@ -6,8 +6,7 @@
 
 <br/>
 
-# and I'm a frontend developer 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=and+I'm+a+frontend+developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&random=false&width=435&lines=and+I'm+a+Frontend+Developer)](https://git.io/typing-svg)
 
 <br/>
 <br/>
