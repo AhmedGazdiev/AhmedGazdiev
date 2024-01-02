@@ -25,17 +25,6 @@
 <br/>
 <br/>
 <br/>
-
-### 📷 Соц. сети:
-<a href="https://twitter.com/danielhendricks/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Twitter" title="Twitter" width="25" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Twitter" title="Twitter" width="25" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Twitter" title="Twitter" width="25" height="25" />
-</a>
-
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
