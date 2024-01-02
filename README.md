@@ -12,7 +12,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ### 💻 Технологии:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs)](https://skillicons.dev)
