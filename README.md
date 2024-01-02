@@ -24,6 +24,8 @@
 <img align='left' alt='redux' width='55px' src='./src/icons/redux.svg'>
 <img align='left' alt='react' width='55px' src='./src/icons/nextjs.svg'>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs)](https://skillicons.dev)
+
 <br/>
 <br/>
 <br/>
