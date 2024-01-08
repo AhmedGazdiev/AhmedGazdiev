@@ -9,17 +9,15 @@
 <h2>and I'm a Frontend Developer</h2>
 
 <br/>
-<br/>
 
 ### 💻 Технологии:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs)](https://skillicons.dev)
 
 <br/>
 <br/>
-<br/>
 
 ### ⚒️ Инструменты:
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,vite,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,webpack,vite)](https://skillicons.dev)
 
 <br/>
 <br/>
