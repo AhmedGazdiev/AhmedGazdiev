@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src='./src/icons/logo.png' width='100%'>
+<img src='./src/logo.png' width='100%'>
 
 <br/>
 
