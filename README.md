@@ -26,7 +26,5 @@
 ![github-readme-stats vercel](https://github.com/AhmedGazdiev/AhmedGazdiev/assets/155042512/92518888-91db-466c-b036-12aad605ecd2)
 
 <br/>
-<br/>
-<br/>
 
 <img src='./src/footer.svg' />
