@@ -1,4 +1,4 @@
-<h1>Hello, my name is</h1>
+<h1>Приветствую🤝, меня зовут</h1>
 
 <br/>
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2>and I'm a Frontend Developer</h2>
+<h2>и я Frontend разработчик</h2>
 
 <br/>
 
@@ -15,10 +15,13 @@
 
 <br/>
 
-### ⚒️ Tools:
+### ⚒️ Инструменты:
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,webpack,vite)](https://skillicons.dev)
 
 <br/>
+
+<img src='./src/snake.svg' />
+
 <br/>
 
 ![api](https://github.com/AhmedGazdiev/AhmedGazdiev/assets/155042512/b278187f-50ff-4e82-b818-81a1d02ceb10)
