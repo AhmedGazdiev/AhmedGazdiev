@@ -10,12 +10,12 @@
 
 <br/>
 
-### 💻 Технологии:
+### 💻 Tehnologies:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs)](https://skillicons.dev)
 
 <br/>
 
-### ⚒️ Инструменты:
+### ⚒️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,webpack,vite)](https://skillicons.dev)
 
 <br/>
