@@ -1,4 +1,4 @@
-<h1>Приветствую🤝, меня зовут</h1>
+<h1>Hi🤝, my name</h1>
 
 <br/>
 
@@ -6,16 +6,16 @@
 
 <br/>
 
-<h2>и я Frontend разработчик</h2>
+<h2>and i Frontend developer</h2>
 
 <br/>
 
-### 💻 Технологии:
+### 💻 Tehnologies:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs)](https://skillicons.dev)
 
 <br/>
 
-### ⚒️ Инструменты:
+### ⚒️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,webpack,vite)](https://skillicons.dev)
 
 <br/>
