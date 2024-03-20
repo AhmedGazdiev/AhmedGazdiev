@@ -11,7 +11,7 @@
 <br/>
 
 ### 💻 Tehnologies:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb)](https://skillicons.dev)
 
 ### ⚒️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,webpack,vite)](https://skillicons.dev)
