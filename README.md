@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs)](https://skillicons.dev)
 
 ### ⚒️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,webpack,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,vite)](https://skillicons.dev)
 
 <br/>
 
