@@ -11,10 +11,10 @@
 <br/>
 
 ### 💻 Tehnologies:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,angular,reactivex)](https://skillicons.dev)
 
 ### ⚒️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,npm,yarn,git,vite)](https://skillicons.dev)
 
 <br/>
 
