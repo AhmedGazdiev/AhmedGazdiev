@@ -10,10 +10,10 @@
 
 <br/>
 
-## Tehnologies:
+### Tehnologies:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs,angular,reactivex)](https://skillicons.dev)
 
-## Tools:
+### Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,npm,yarn,pnpm,git,webpack,vite)](https://skillicons.dev)
 
 <br/>
