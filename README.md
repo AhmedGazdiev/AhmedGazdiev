@@ -20,3 +20,9 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AhmedGazdiev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+## GitHub Stats
+| ![Lemon-Juiced's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedGazdiev&show_icons=true&theme=tokyonight&rank_icon=percentile) 
+| ![Lemon-Juiced's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGazdiev&layout=compact&langs_count=10&theme=tokyonight)
